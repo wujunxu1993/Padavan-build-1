@@ -41,7 +41,7 @@ More on [ChongshengB](https://github.com/chongshengB/rt-n56u)
 
 * 当前最新版本:RM2100.21.040813.trx  最后编译时间: 2021-04-08 14:06:51  下载地址: [奶牛快传](https://cowtransfer.com/s/dbe90275064643)  [WeTransfer](https://we.tl/t-77BXNIqKpJ)
 
-* 当前最新版本:K2P_nano-5.0.21.021001.trx  最后编译时间: 2021-02-10 02:05:16  下载地址: [奶牛快传](https://cowtransfer.com/s/e9d11b47439048)  [WeTransfer](https://we.tl/t-LVAcqgYTaI)
+* 当前最新版本:K2P_nano-5.0.21.110922.trx  最后编译时间: 2021-11-09 22:21:12  下载地址: [奶牛快传](https://cowtransfer.com/s/5eae52e888e44f)  [WeTransfer](https://we.tl/t-Ahgeq5OLr5)
 
 * 当前最新版本:PSG1218_nano.21.021013.trx  最后编译时间: 2021-02-10 13:26:41  下载地址: [奶牛快传](https://cowtransfer.com/s/dce96ef77ffd4e)  [WeTransfer](https://we.tl/t-QAX47R0afI)
 
